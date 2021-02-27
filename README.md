@@ -5,8 +5,6 @@
     const Birth =  "Born in Pernambuco, Brazil";
     let Career =  "I'm a Software Engineer";
     let Education =  "Graduated in Systems Analysis and Development"
-    
-    console.log(Birth, Career, Education)
 ``` 
 
 ---
