@@ -6,7 +6,7 @@
     let Education =  "Graduated in Systems Analysis and Development";   
     let Career =  "I'm a Software Engineer";
 
-    console.log(Birth, Education, Career)
+    console.log(`${Birth}, ${Education}, ${Career}`);
 ``` 
 
 ### Technologies/Tools  :man_technologist:
