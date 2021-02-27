@@ -1,6 +1,6 @@
 ## Hey there, My name is Allan Leal! Be Welcome! :octocat: 
 
-`:brazil: :computer: :mortar_board:`
+:brazil: :computer: :mortar_board:
 ```js
     const Birth =  "Born in Pernambuco, Brazil";
     let Career =  "I'm a Software Engineer";
