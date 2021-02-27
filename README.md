@@ -2,9 +2,9 @@
 
 
 ```js
-    const Birth = ':brazil:' "Born in Pernambuco, Brazil";
-    let Career = ':computer:' "I'm a Software Engineer";
-    let Education = ':mortar_board:' "Graduated in Systems Analysis and Development"
+    :brazil: const Birth =  "Born in Pernambuco, Brazil";
+    :computer: let Career =  "I'm a Software Engineer";
+    :mortar_board: let Education =  "Graduated in Systems Analysis and Development"
 
     console.log(Birth, Career, Education)
 ``` 
