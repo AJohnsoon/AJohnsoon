@@ -7,9 +7,7 @@
     let Education =  "Graduated in Systems Analysis and Development"
 ``` 
 
----
-
-## Technologies/Tools  :man_technologist:
+### Technologies/Tools  :man_technologist:
 <br>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React JS"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodeJS"></code>
@@ -23,7 +21,7 @@
 ---
 
 
-## Find me elsewhere
+### Find me elsewhere
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-leal-a2a59079/)](https://www.linkedin.com/in/allan-leal-a2a59079/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/ajohnsoon)](https://www.instagram.com/ajohnsoon/)
