@@ -1,24 +1,22 @@
-## Hey there, My name is Allan Leal! Be Welcome! :octocat: 
+## Hey there, My name is Allan Johnson! Be Welcome! :octocat: 
 
-:brazil: :mortar_board: :computer:
 ```js
-    const Birth =  "Born in Pernambuco, Brazil";
-    let Education =  "Graduated in Systems Analysis and Development";   
-    let Career =  "I'm a Software Engineer";
+    const Birth =  "Born in Pernambuco, Brazil"; :mortar_board:
+    let Education =  "Graduated in Systems Analysis and Development" :mortar_board:   
+    let Career =  "I'm a Software Engineer"; :man_technologist:
 
     console.log(`${Birth}, ${Education}, ${Career}`);
 ``` 
 
-### Technologies/Tools  :man_technologist:
+### :hammer_and_wrench: Technologies/Tools :gear:
 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React JS"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodeJS"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"></code>
-<code><img height="45" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" alt="Yarn"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React JS"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodeJS"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"></code>
+<code><img height="40" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" alt="Yarn"></code>
 
 <hr>
 
