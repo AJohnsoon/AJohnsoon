@@ -1,14 +1,18 @@
-## Hey there, My name is Allan Johnson! Be Welcome! :octocat: 
+# Hey there :wave:
+## My name is Allan Johnson, be welcome! :octocat: 
 
 ```js
-    const Birth =  "Born in Pernambuco, Brazil"; :mortar_board:
-    let Education =  "Graduated in Systems Analysis and Development" :mortar_board:   
-    let Career =  "I'm a Software Engineer"; :man_technologist:
+:brazil: const Birth =  "Born in Pernambuco, Brazil"; 
+:mortar_board: let Education =  "Graduated in Systems Analysis and Development"     
+:man_technologist: let Career =  "I'm a Software Engineer"; 
 
     console.log(`${Birth}, ${Education}, ${Career}`);
 ``` 
 
-### :hammer_and_wrench: Technologies/Tools :gear:
+
+
+
+### :hammer_and_wrench: Technologies && Tools :gear:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React JS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodeJS"></code>
