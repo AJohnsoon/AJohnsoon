@@ -2,10 +2,10 @@
 ## My name is Allan Johnson, be welcome! :octocat: 
 
 ```js
-:brazil: const Birth =  "Born in Pernambuco, Brazil"; 
-:mortar_board: let Education =  "Graduated in Systems Analysis and Development"     
-:man_technologist: let Career =  "I'm a Software Engineer"; 
-
+    const Birth =  "Born in Pernambuco, Brazil"; 
+    let Education =  "Graduated in Systems Analysis and Development"     
+    let Career =  "I'm a Software Engineer"; 
+    
     console.log(`${Birth}, ${Education}, ${Career}`);
 ``` 
 
