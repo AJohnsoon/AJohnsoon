@@ -10,8 +10,6 @@
 ``` 
 
 
-
-
 ### :hammer_and_wrench: Technologies && Tools :gear:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React JS"></code>
@@ -29,4 +27,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-leal-a2a59079/)](https://www.linkedin.com/in/allan-leal-a2a59079/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/ajohnsoon)](https://www.instagram.com/ajohnsoon/)
 </hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJohnsoon&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJohnsoon&theme=blue-green"/>
