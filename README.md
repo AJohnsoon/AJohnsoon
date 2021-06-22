@@ -21,10 +21,14 @@
 <code><img height="40" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" alt="Yarn"></code>
 
 <hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJohnsoon&theme=blue-green&layout=compact"/>
+
+</hr>
+
+<hr>
 
 ### Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-leal-a2a59079/)](https://www.linkedin.com/in/allan-leal-a2a59079/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/ajohnsoon)](https://www.instagram.com/ajohnsoon/)
 </hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJohnsoon&theme=blue-green"/>
